@@ -1,0 +1,10 @@
+_build/
+cover/
+deps/
+doc/dist
+doc/.build
+doc/*.html
+.fetch
+*.dump
+*.ez
+*.tar
