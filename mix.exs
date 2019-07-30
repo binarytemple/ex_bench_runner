@@ -40,7 +40,7 @@ defmodule ExBenchRunner.MixProject do
 
   defp deps do
     [
-      {:ex_bench, "~> 0.2.14"},
+      {:ex_bench, "~> 0.3.0"},
       {:prometheus_plugs, "~> 1.1.5"},
       {:prometheus_process_collector, "~> 1.4"},
       {:plug_cowboy, "~> 2.1"}
